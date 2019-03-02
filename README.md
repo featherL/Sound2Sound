@@ -1,6 +1,9 @@
 # Sound2Sound
 电脑声音输出重定向到手机的python脚本
 
+## 支持平台
+linux、windows（安装依赖可能有点麻烦）、macos
+
 ## 安装
 
 下载项目，或者运行命令克隆项目: `$ git clone https://github.com/featherL/Sound2Sound.git`
